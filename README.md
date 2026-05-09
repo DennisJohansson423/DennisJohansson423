@@ -19,8 +19,8 @@ I enjoy turning complex problems into clear, efficient solutions, combining soli
 ### GitHub stats
 
 <p align="center">
-  <img height="165" src="[https://github-readme-stats.vercel.app](https://vercel.com/dennis-johansson-s-projects/github-readme-stats/BPfT26o9m8Zp9W5A4nw1c5QMwWsd)/api?username=DennisJohansson423&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="[https://github-readme-stats.vercel.app](https://vercel.com/dennis-johansson-s-projects/github-readme-stats/BPfT26o9m8Zp9W5A4nw1c5QMwWsd)/api/top-langs/?username=DennisJohansson423&hide_border=true&layout=compact" />
+  <img height="165" src="https://github-readme-stats-six-mauve-32.vercel.app/api?username=DennisJohansson423&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-six-mauve-32.vercel.app/api/top-langs/?username=DennisJohansson423&hide_border=true&layout=compact" />
 </p>
 
 ### Contribution snake
