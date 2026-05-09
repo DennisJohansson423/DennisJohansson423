@@ -1,16 +1,36 @@
-## Hi there 👋
+## Dennis Johansson
 
-<!--
-**DennisJohansson423/DennisJohansson423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc. student in **Computer Science and Software Engineering** at Linköping University, specialising in **AI and machine learning**.
 
-Here are some ideas to get you started:
+I enjoy turning complex problems into clear, efficient solutions, combining solid software engineering foundations with a curiosity for smart automation, optimisation and problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work with
+- AI and machine learning
+- Software engineering and full-stack development
+- Optimisation, automation and applied problem solving
+
+### Links
+- Portfolio: [dennisjohansson423.github.io](https://dennisjohansson423.github.io)
+- LinkedIn: [dennis-johansson-](https://www.linkedin.com/in/dennis-johansson-)
+- Email: dennisjohansson22@icloud.com
+
+---
+
+### GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DennisJohansson423&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DennisJohansson423&hide_border=true&layout=compact" />
+</p>
+
+### Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DennisJohansson423/DennisJohansson423/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DennisJohansson423/DennisJohansson423/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/DennisJohansson423/DennisJohansson423/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+*Open to internships, collaborations and opportunities in AI, machine learning and software engineering.*
