@@ -16,14 +16,11 @@ I enjoy turning complex problems into clear, efficient solutions, combining soli
 
 ---
 
-### GitHub stats
-
 <p align="center">
   <img height="165" src="https://github-readme-stats-six-mauve-32.vercel.app/api?username=DennisJohansson423&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="165" src="https://github-readme-stats-six-mauve-32.vercel.app/api/top-langs/?username=DennisJohansson423&hide_border=true&layout=compact" />
 </p>
 
-### Contribution snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DennisJohansson423/DennisJohansson423/output/github-contribution-grid-snake-dark.svg">
