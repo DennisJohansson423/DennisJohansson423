@@ -17,8 +17,8 @@ I enjoy turning complex problems into clear, efficient solutions, combining soli
 ---
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-six-mauve-32.vercel.app/api?username=DennisJohansson423&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats-six-mauve-32.vercel.app/api/top-langs/?username=DennisJohansson423&hide_border=true&layout=compact" />
+  <img height="165" alt="Dennis Johansson's GitHub statistics" src="https://github-readme-stats-six-mauve-32.vercel.app/api?username=DennisJohansson423&show_icons=true&hide_border=true&include_all_commits=true&cache_seconds=86400" />
+  <img height="165" alt="Most used languages" src="https://github-readme-stats-six-mauve-32.vercel.app/api/top-langs/?username=DennisJohansson423&hide_border=true&layout=compact&cache_seconds=86400" />
 </p>
 
 
